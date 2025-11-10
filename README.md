@@ -1,4 +1,4 @@
 # qwiklabs-github-project
 Introducing Github
 I am editing the README file. Adding some more details about
-the project description.
+the project description of qwiklabs
